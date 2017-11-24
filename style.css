@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient(#2980b9, #2c3e50);
+  height: 100vh;
+  color: #ffffff; }
+
+.container h1 {
+  color: #ff881d;
+  margin: 30px 0;
+  text-transform: uppercase; }
+.container .row {
+  display: flex;
+  justify-content: center; }
+  .container .row .btn {
+    margin: 15px; }
+.container .data .country {
+  list-style-type: none;
+  color: #34495e;
+  background-color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+  margin: 2px;
+  padding: 10px; }
+  .container .data .country .information {
+    color: #3498db;
+    font-size: 14px; }
+    .container .data .country .information li {
+      list-style-type: none; }
+
+/*# sourceMappingURL=style.css.map */
